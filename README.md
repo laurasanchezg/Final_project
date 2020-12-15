@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Hate speech detection on Twitter
-* Laura Sánchez * 
+**Laura Sánchez**
 
 *Data Part Time Barcelona Jun 2020*
 
@@ -19,7 +19,7 @@ There is an increasing concert about agressive or offensive language on social m
 
 
 
-##Dataset
+## Dataset
 
 The dataset was extracted form HateEval 2019, and contains the following columns:
 
@@ -32,7 +32,7 @@ The dataset was extracted form HateEval 2019, and contains the following columns
 - TR and AG: Dropped these columns for simplicity
 
 
-##Workflow
+## Workflow
 
 - Exploratory analysis of reviews
 - Data cleaning for Topic Modelling and Word cloud
